@@ -66,7 +66,7 @@ To launch the software, follow these steps below:
 * ```self.set_predicted_pose(x,y)```  - to set the position predicted by the algorithm ( x and y should be floating point number.)
 * ```self.set_predicted_path(path)```  - to set predicted path at once /or reset the previously set predicted poses at once ---- path should be Nx2 (numpy array or python list) [x,y]. 
 
-More information is available [here](https://dattadebrup.github.io/rgbd/evaluator/2018/07/20/TUM-RGBD-evaluator-software.html).
+**More information is available [here](https://dattadebrup.github.io/rgbd/evaluator/2018/07/20/TUM-RGBD-evaluator-software.html).**
 
 ## Data Types:
 * The Color RGB image is provided in 640×480 8-bit RGB format.
