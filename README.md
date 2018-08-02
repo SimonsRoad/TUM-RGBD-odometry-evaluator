@@ -92,3 +92,8 @@ To launch the software, follow these steps below:
 
 * For more details refer to the original page of the TUM RGBD dataset <https://vision.in.tum.de/data/datasets/rgbd-dataset/file_formats#ros_bag>.
 
+
+## Demonstration video:
+
+<iframe width="711" height="400" src="https://www.youtube.com/embed/2coEdSWuACA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
