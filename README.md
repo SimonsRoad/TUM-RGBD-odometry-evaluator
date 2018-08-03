@@ -95,5 +95,5 @@ To launch the software, follow these steps below:
 
 ## Demonstration video:
 
-<iframe width="711" height="400" src="https://www.youtube.com/embed/2coEdSWuACA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+[![Demo Video](https://img.youtube.com/vi/2coEdSWuACA/0.jpg)](https://www.youtube.com/watch?v=2coEdSWuACA)
