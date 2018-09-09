@@ -1,6 +1,6 @@
 
-# 2D RGBD Visual Odometry.
-This software helps the user to practice/test his/her own odometry/localization algorithm on the [TUM RGBD dataset](https://vision.in.tum.de/data/datasets/rgbd-dataset). The performance(speed) and accuracy of the users' algorithm are shown on the GUI of the software. More details description about this software is available [here](https://dattadebrup.github.io/rgbd/evaluator/2018/07/20/TUM-RGBD-evaluator-software.html).
+# TUM RGBD odometry evaluator.
+This software helps the user to practice/test their own odometry/localization algorithm on the [TUM RGBD dataset](https://vision.in.tum.de/data/datasets/rgbd-dataset). The performance(speed) and accuracy of the users' algorithm are shown on the GUI of the software. More details description about this software is available [here](https://dattadebrup.github.io/rgbd/evaluator/2018/07/20/TUM-RGBD-evaluator-software.html).
 
 ## How to Run:
 To launch the software, follow these steps below:
